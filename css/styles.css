@@ -54,7 +54,7 @@ body {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2e2f42;
 }
 
 .page-address {
@@ -179,6 +179,6 @@ button:focus {
     letter-spacing: 0.02em;
 }
 
-.name, .name-text {
+.name, .name-text, .name-photo {
     background-color: #FFFFFF;
 }
