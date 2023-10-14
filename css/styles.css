@@ -182,3 +182,7 @@ button:focus {
 .name, .name-text, .name-photo {
     background-color: #FFFFFF;
 }
+
+.list-address {
+    color: #434455;
+}
