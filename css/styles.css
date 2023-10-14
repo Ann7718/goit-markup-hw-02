@@ -110,6 +110,10 @@ button:focus {
     background-color: #FFFFFF;
 }
 
+.team-page-our {
+    background-color: #F4F4FD;
+}
+
 .team-text {
     font-size: 36px;
     line-height: 1.11;
