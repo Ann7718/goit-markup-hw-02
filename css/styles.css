@@ -107,7 +107,7 @@ button:focus {
 }
 
 .team-page {
-    background-color: #F4F4FD
+    background-color: #FFFFFF;
 }
 
 .team-text {
@@ -184,5 +184,8 @@ button:focus {
 }
 
 .list-address {
+    color: #434455;
+}
+.menu-link-con {
     color: #434455;
 }
